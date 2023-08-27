@@ -1,0 +1,54 @@
+.grade_text {
+    color: rgb(255, 145, 0);
+}
+
+.price_text-real{
+    color: #EE4D2D;
+}
+
+.price-stick_sale{
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    font-size: 13px;
+    border-radius: 3px;
+    padding: 0 4px;
+    margin-left: 30px;
+}
+
+.selectBuy{
+    display: flex;
+}
+
+.selectBuy-title{
+    font-size: 20px;
+    color: #8E8B86;
+    margin-right: 50px; 
+    min-width: 100px;
+}
+
+.selectBuy-select_speed{
+    font-size: 20px;
+    color: #EE4D2D;
+    margin-right: 50px;
+}
+
+.selectBuy-select_extra{
+    font-size: 20px;
+    color: red;
+    margin-right: 50px;
+}
+
+.btn-buy_now{
+
+}
+
+.btn-buy_now:hover{
+    opacity: 0.85;
+    color: white;
+}
+
+.btn-add_to_card{
+    background-color: #427cbf;
+    color: white;
+}

@@ -1,0 +1,1566 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Áo thun Vansi® HUMAN SMEARING TEE (Black)",
+            "Color": "Màu đen",
+            "price": 450000,
+            "priceSale": 250000,
+            "img": "img/pd/pd-01.webp",
+            "   ": [
+                "img/pd/pd-thumnail-01-01.webp",
+                "img/pd/pd-thumnail-01-02.webp",
+                "img/pd/pd-thumnail-01-03.webp",
+                "img/pd/pd-thumnail-01-04.webp"
+            ],
+            "sale": "10%",
+            "type": "Yêu thích",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 4.9,
+            "info": "Áo thun form rộng HUMAN SMEARING TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Vansi thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex"
+            ],
+            "sex": [
+                "Nam",
+                "Unisex"
+            ],
+            "design": "Trơn",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 2,
+            "name": "Áo thun Vansi®LOVE IS LOVE TEE (Màu xanh lá đậm)",
+            "Color": "Màu xanh lá đậm",
+            "price": 420000,
+            "priceSale": 300000,
+            "img": "img/pd/pd-02.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-02-01.webp",
+                "img/pd/pd-thumnail-02-02.webp",
+                "img/pd/pd-thumnail-02-03.webp",
+                "img/pd/pd-thumnail-02-04.webp"
+            ],
+            "sale": "15%",
+            "type": "Yêu thích",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 3.9,
+            "info": "Áo thun form rộng HUMAN SMEARING TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phô",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Unisex"
+            ],
+            "design": "Kẻ sọc",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 3,
+            "name": "Áo thun Vansi® LOVE IS LOVE TEE (Màu đen)",
+            "Color": "Màu đen",
+            "price": 500000,
+            "priceSale": 300000,
+            "img": "img/pd/pd-03.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-03-01.webp",
+                "img/pd/pd-thumnail-03-02.webp",
+                "img/pd/pd-thumnail-03-03.webp",
+                "img/pd/pd-thumnail-03-04.webp"
+            ],
+            "sale": "24%",
+            "type": "Yêu thích",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 3.9,
+            "info": "Áo thun form rộng HUMAN SMEARING TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phô",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Phối màu",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 4,
+            "name": "Áo thun Paradox® DULL LIGHT TEE (Màu đen)",
+            "Color": "Màu đen",
+            "price": 213000,
+            "priceSale": 200000,
+            "img": "img/pd/pd-04.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-04-01.webp",
+                "img/pd/pd-thumnail-04-02.webp",
+                "img/pd/pd-thumnail-04-03.webp",
+                "img/pd/pd-thumnail-04-04.webp"
+            ],
+            "sale": "15%",
+            "type": "Yêu thích",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 4.5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Nữ"
+            ],
+            "design": "Caro",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 5,
+            "name": "Mũ lưỡi trai Paradox® ASPHALT CAP",
+            "Color": "Màu đen",
+            "price": 213000,
+            "priceSale": 200000,
+            "img": "img/pd/pd-05.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-05-01.webp",
+                "img/pd/pd-thumnail-05-02.webp"
+            ],
+            "sale": "10%",
+            "type": "Phụ kiện",
+            "category": "Thời trang",
+            "size": {
+                "s": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Mũ lưỡi chai ASPHALT CAP là sản phẩm mũ nghệ thuật với thiết kế độc đáo, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Nữ"
+            ],
+            "design": "Họa tiết in",
+            "categoryItem": "Nón"
+        },
+        {
+            "id": 6,
+            "name": "Mũ lưỡi trai Paradox® LEADEN CAP",
+            "Color": "Màu đen",
+            "price": 115000,
+            "priceSale": 99000,
+            "img": "img/pd/pd-06.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-06-01.webp",
+                "img/pd/pd-thumnail-06-02.webp",
+                "img/pd/pd-thumnail-06-03.webp"
+            ],
+            "sale": "30%",
+            "type": "Phụ kiện",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 4.5,
+            "info": "Mũ lưỡi chai LEADEN CAP là sản phẩm mũ nghệ thuật với thiết kế độc đáo, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Họa tiết thêu",
+            "categoryItem": "Nón"
+        },
+        {
+            "id": 7,
+            "name": "PARADOX® EXCLUSIVE LOGO BACKPACK",
+            "Color": "Màu trắng",
+            "price": 555000,
+            "priceSale": 450000,
+            "img": "img/pd/pd-07.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-07-01.webp",
+                "img/pd/pd-thumnail-07-02.webp",
+                "img/pd/pd-thumnail-07-03.webp",
+                "img/pd/pd-thumnail-07-04.webp"
+            ],
+            "sale": "15%",
+            "type": "Phụ kiện",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 4.5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Họa tiết in",
+            "categoryItem": "Balo"
+        },
+        {
+            "id": 8,
+            "name": "Nón Paradox BAD TRIP CAP (PINK) - BLACK WORDING",
+            "Color": "Màu hồng",
+            "price": 350000,
+            "priceSale": 330000,
+            "img": "img/pd/pd-08.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-08-01.webp",
+                "img/pd/pd-thumnail-08-02.webp",
+                "img/pd/pd-thumnail-08-03.webp",
+                "img/pd/pd-thumnail-08-04.webp"
+            ],
+            "sale": "20%",
+            "type": "Phụ kiện",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Phối màu",
+            "categoryItem": "Nón"
+        },
+        {
+            "id": 9,
+            "name": "Áo thun Paradox® THE REVERIE TEE (Màu đen)",
+            "Color": "Màu đen",
+            "price": 500000,
+            "priceSale": 390000,
+            "img": "img/pd/pd-09.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-09-01.webp",
+                "img/pd/pd-thumnail-09-02.webp",
+                "img/pd/pd-thumnail-09-03.webp",
+                "img/pd/pd-thumnail-09-04.webp"
+            ],
+            "sale": "20%",
+            "type": "Bán chạy nhất",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Unisex"
+            ],
+            "design": "Trơn",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 10,
+            "name": "Áo thun Paradox® CUPID TEE (Màu đen)",
+            "Color": "Màu đen",
+            "price": 360000,
+            "priceSale": 300000,
+            "img": "img/pd/pd-10.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-10-01.webp",
+                "img/pd/pd-thumnail-10-02.webp",
+                "img/pd/pd-thumnail-10-03.webp",
+                "img/pd/pd-thumnail-10-04.webp"
+            ],
+            "sale": "20%",
+            "type": "Bán chạy nhất",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Nữ"
+            ],
+            "design": "Trơn",
+            "categoryItem": "Áo thun"
+        },
+        {
+            "id": 11,
+            "name": "Áo khoác dù Paradox® OCCULT JACKET (Màu đen)",
+            "Color": "Màu đen",
+            "price": 555000,
+            "priceSale": 300000,
+            "img": "img/pd/pd-11.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-11-01.webp",
+                "img/pd/pd-thumnail-11-02.webp",
+                "img/pd/pd-thumnail-11-03.webp",
+                "img/pd/pd-thumnail-11-04.webp"
+            ],
+            "sale": "35%",
+            "type": "Bán chạy nhất",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Họa tiết in",
+            "categoryItem": "Áo khoác"
+        },
+        {
+            "id": 12,
+            "name": "Áo hoodie nỉ Paradox® ELECTIVE HOODIE (Màu xám)",
+            "Color": "Màu xám",
+            "price": 699000,
+            "priceSale": 490000,
+            "img": "img/pd/pd-12.webp",
+            "thumnail": [
+                "img/pd/pd-thumnail-12-01.webp",
+                "img/pd/pd-thumnail-12-02.webp",
+                "img/pd/pd-thumnail-12-03.webp",
+                "img/pd/pd-thumnail-12-04.webp"
+            ],
+            "sale": "35%",
+            "type": "Bán chạy nhất",
+            "category": "Thời trang",
+            "size": {
+                "S": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "M": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)",
+                "L": "1m65 - 1m75 (dài: 76cm; rộng: 58cm; tay: 22cm)",
+                "XL": "1m75 - 1m90 (dài: 78cm; rộng: 60cm; tay: 23cm)",
+                "FREE SIZE": "Trên 2m (dài: 72cm; rộng: 54cm; tay: 20cm)"
+            },
+            "grade": 5,
+            "info": "Áo thun form rộng DULL LIGHT TEE là sản phẩm áo thun nghệ thuật với thiết kế độc đáo dựa trên nền chất liệu áo phông tay lỡ Basic, vừa đem lại cho bạn cảm giác thoải mái vừa thể hiện cá tính riêng của bạn thông qua những hoạ tiết, hình vẽ do chính đội ngũ Designer của Paradox thiết kế.",
+            "detailInfo": [
+                "Tự hào sản xuất tại Việt Nam bởi chính Vansi - là một Local Brand đã có mặt nhiều năm trên thị trường.",
+                "Với chất liệu cotton 2 chiều dày dặn.",
+                "Độ co giãn tốt: Độ co giãn vừa phải chính là ưu điểm lớn nhất của vải cotton 2 chiều này. Sự co giãn theo 2 chiều nhất định giúp chất liệu luôn là sự lựa chọn hoàn hảo cho người dùng khi thực hiện các hoạt động thể dục thể thao, hay phải làm công việc nguyên ngày. Bên cạnh đó còn giúp giữ được form áo lâu hơn so với loại vải cotton 2 chiều khi mà nhiều bạn không có thói quen giặt tay áo thun.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ"
+            ],
+            "design": "Trơn",
+            "categoryItem": "Áo khoác Hoodie"
+        },
+        {
+            "id": 13,
+            "name": "Nhẫn Vàng 14K đính đá Moon PNJ MOXMX000027",
+            "Color": "Màu đen",
+            "price": 9029000,
+            "priceSale": 899000000,
+            "img": "img/pd/pd-13.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-13-01.png",
+                "img/pd/pd-thumnail-13-02.png",
+                "img/pd/pd-thumnail-13-03.png",
+                "img/pd/pd-thumnail-13-04.png"
+            ],
+            "sale": "35%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ"
+            ],
+            "design": "Vàng",
+            "categoryItem": "Nhẫn"
+        },
+        {
+            "id": 14,
+            "name": "Nhẫn Vàng 18K đính đá Citrine",
+            "Color": "Màu đen",
+            "price": 1346700,
+            "priceSale": 1246700,
+            "img": "img/pd/pd-14.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-14-01.png",
+                "img/pd/pd-thumnail-14-02.png",
+                "img/pd/pd-thumnail-14-03.png",
+                "img/pd/pd-thumnail-14-04.png"
+            ],
+            "sale": "10%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ"
+            ],
+            "design": "Vàng",
+            "categoryItem": "Nhẫn"
+        },
+        {
+            "id": 15,
+            "name": "Nhẫn Bạc đính đá PNJSilver",
+            "Color": "Màu đen",
+            "price": 1500000,
+            "priceSale": 799000,
+            "img": "img/pd/pd-15.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-15-01.png",
+                "img/pd/pd-thumnail-15-02.png",
+                "img/pd/pd-thumnail-15-03.png",
+                "img/pd/pd-thumnail-15-04.png"
+            ],
+            "sale": "10%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Bạc",
+            "categoryItem": "Nhẫn"
+        },
+        {
+            "id": 16,
+            "name": "Dây cổ Vàng 18K đính đá Quartz",
+            "Color": "Màu đen",
+            "price": 4575000,
+            "priceSale": 3950000,
+            "img": "img/pd/pd-16.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-16-01.png",
+                "img/pd/pd-thumnail-16-02.png",
+                "img/pd/pd-thumnail-16-03.png",
+                "img/pd/pd-thumnail-16-04.png"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ"
+            ],
+            "design": "Vàng",
+            "categoryItem": "Dây chuyền"
+        },
+        {
+            "id": 17,
+            "name": "Dây cổ Vàng 18K đính đá Quartz",
+            "Color": "Màu đen",
+            "price": 3184000,
+            "priceSale": 2950000,
+            "img": "img/pd/pd-17.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-17-01.png",
+                "img/pd/pd-thumnail-17-02.png",
+                "img/pd/pd-thumnail-17-03.png",
+                "img/pd/pd-thumnail-17-04.png"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Unisex"
+            ],
+            "design": "Vàng",
+            "categoryItem": "Dây chuyền"
+        },
+        {
+            "id": 18,
+            "name": "Dây cổ Kim cương Vàng trắng 14K",
+            "Color": "Màu đen",
+            "price": 5248000,
+            "priceSale": 4950000,
+            "img": "img/pd/pd-18.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-18-01.png",
+                "img/pd/pd-thumnail-18-02.png",
+                "img/pd/pd-thumnail-18-03.png",
+                "img/pd/pd-thumnail-18-04.png"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Platinum",
+            "categoryItem": "Dây chuyền"
+        },
+        {
+            "id": 19,
+            "name": "Lắc tay Bạc đính đá PNJSilver",
+            "Color": "Màu đen",
+            "price": 5248000,
+            "priceSale": 4950000,
+            "img": "img/pd/pd-19.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-19-01.png",
+                "img/pd/pd-thumnail-19-02.png",
+                "img/pd/pd-thumnail-19-03.png",
+                "img/pd/pd-thumnail-19-04.png"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Unisex"
+            ],
+            "design": "Bạc",
+            "categoryItem": "Lắc"
+        },
+        {
+            "id": 20,
+            "name": "Lắc tay bạc đính đá PNJSilver Trịnh Collection",
+            "Color": "Màu đen",
+            "price": 5248000,
+            "priceSale": 4950000,
+            "img": "img/pd/pd-20.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-20-01.png",
+                "img/pd/pd-thumnail-20-02.png",
+                "img/pd/pd-thumnail-20-03.png",
+                "img/pd/pd-thumnail-20-04.png"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Trang sức",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Unisex"
+            ],
+            "design": "Bạc",
+            "categoryItem": "Lắc"
+        },
+        {
+            "id": 21,
+            "name": "Đồng hồ Calvin Klein Nam 25200117 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 5979000,
+            "priceSale": 4950000,
+            "img": "img/pd/pd-21.png",
+            "thumnail": [
+                "img/pd/pd-thumnail-21-01.jpg",
+                "img/pd/pd-thumnail-21-02.jpg",
+                "img/pd/pd-thumnail-21-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam",
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Dây thép không gỉ",
+            "categoryItem": "Đồng hồ"
+        },
+        {
+            "id": 22,
+            "name": "Đồng hồ Calvin Klein Nam 25200115 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 3920000,
+            "priceSale": 3500000,
+            "img": "img/pd/pd-22.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-22-01.jpg",
+                "img/pd/pd-thumnail-22-02.jpg",
+                "img/pd/pd-thumnail-22-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Dây thép không gỉ",
+            "categoryItem": "Đồng hồ"
+        },
+        {
+            "id": 23,
+            "name": "Đồng hồ Calvin Klein Nam 25200065 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 6920000,
+            "priceSale": 5600000,
+            "img": "img/pd/pd-23.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-23-01.jpg",
+                "img/pd/pd-thumnail-23-02.jpg",
+                "img/pd/pd-thumnail-23-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nữ",
+                "Unisex"
+            ],
+            "design": "Dây da",
+            "categoryItem": "Đồng hồ"
+        },
+        {
+            "id": 24,
+            "name": "Đồng hồ Calvin Klein Nam 25200062 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 4900000,
+            "priceSale": 3200000,
+            "img": "img/pd/pd-24.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-24-01.jpg",
+                "img/pd/pd-thumnail-24-02.jpg",
+                "img/pd/pd-thumnail-24-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nan"
+            ],
+            "design": "Dây cao su",
+            "categoryItem": "Đồng hồ cặp"
+        },
+        {
+            "id": 25,
+            "name": "Đồng hồ Calvin Klein Nam 25200110 Dây Da 44 mm",
+            "Color": "Màu đen",
+            "price": 2200000,
+            "priceSale": 2000000,
+            "img": "img/pd/pd-25.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-25-01.jpg",
+                "img/pd/pd-thumnail-25-02.jpg",
+                "img/pd/pd-thumnail-25-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Dây Satin",
+            "categoryItem": "Đồng hồ cặp"
+        },
+        {
+            "id": 26,
+            "name": "Đồng hồ Calvin Klein Nam 26200110 Dây Da 44 mm",
+            "Color": "Màu đen",
+            "price": 4800000,
+            "priceSale": 4500000,
+            "img": "img/pd/pd-26.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-26-01.jpg",
+                "img/pd/pd-thumnail-26-02.jpg",
+                "img/pd/pd-thumnail-26-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Dây cao sy",
+            "categoryItem": "Đồng hồ"
+        },
+        {
+            "id": 27,
+            "name": "Đồng hồ Calvin Klein Nam 25200109 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 7800000,
+            "priceSale": 5500000,
+            "img": "img/pd/pd-27.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-27-01.jpg",
+                "img/pd/pd-thumnail-27-02.jpg",
+                "img/pd/pd-thumnail-27-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Unisex"
+            ],
+            "design": "Dây da",
+            "categoryItem": "Đồng hồ cặp"
+        },
+        {
+            "id": 28,
+            "name": "Đồng hồ Calvin Klein Nam 25200109 Dây Kim Loại 44 mm",
+            "Color": "Màu đen",
+            "price": 4800000,
+            "priceSale": 3300000,
+            "img": "img/pd/pd-28.jpg",
+            "thumnail": [
+                "img/pd/pd-thumnail-28-01.jpg",
+                "img/pd/pd-thumnail-28-02.jpg",
+                "img/pd/pd-thumnail-28-03.jpg"
+            ],
+            "sale": "25%",
+            "type": "",
+            "category": "Đồng hồ",
+            "size": {
+                "12": "1m40 - 1m55 (dài: 72cm; rộng: 54cm; tay: 20cm)",
+                "13": "1m55 - 1m65 (dài: 74cm; rộng: 56cm; tay: 21cm)"
+            },
+            "grade": 4.5,
+            "info": "Tận dụng sắc hồng nữ tính của đá Moon - viên đá mang sắc thái dịu êm trên chất liệu vàng 14K, PNJ đem đến tuyệt tác nhẫn đá Moon hồng thanh lịch như những người phụ nữ kiêu hãnh cùng phong thái tự tin của riêng nàng. Tổng thể thiết kế hòa lên khúc ca vang danh, tôn vinh nhan sắc kiêu sa của phái đẹp.",
+            "detailInfo": [
+                "Trọng lượng tham khảo: 9.505phân.",
+                "Loại đá chính: Moon",
+                "Màu đá chính: Hồng.",
+                "Độ thoáng khí cao: Vải cotton 2 chiều được dệt từ các sợi bông nguyên chất tự nhiên, thân thiện với môi trường nên giúp cho vải luôn được thoáng mát và tạo cảm giác dễ chịu cho làn da khi sử dụng.",
+                "Khả năng hút ẩm tốt: Bên cạnh sự thoáng mát, vải còn có khả năng hút ấm rất tốt. Giúp cho mồ hôi luôn thoát ra được bên ngoài vải, không gây bết dính hay làm cho da bị bức bí vì mồ hôi.",
+                "Bề mặt vải mềm mại: Nhờ vào việc kết hơp một tỷ lệ nhỏ sợi spandex mà vải cotton 2 chiều có được sự mềm mại khi tiếp xúc với làn da và cũng như ít bị nhăn hơn.",
+                "Họa tiết in nổi được sử dụng công nghệ in kéo lụa cho độ bền cao, hiệu ứng màu sắc đẹp và sắc nét hơn.",
+                "Form áo Oversize phù hợp với nhiều kiểu hình thể, giúp che khuyết điểm tốt."
+            ],
+            "note": "Không sử dụng máy sấy để làm khô.",
+            "keySale": [
+                "aothun",
+                "aounisex",
+                "thununisex",
+                "aothuntaylo",
+                "aothunformrong",
+                "aophongformrong",
+                "aothununisex",
+                "aophongunisex",
+                "aoformrong"
+            ],
+            "sex": [
+                "Nam"
+            ],
+            "design": "Trơn",
+            "categoryItem": "Áo"
+        }
+    ],
+    "filterSeach": {
+        "fashions": [
+            {
+                "tittle": "Danh mục",
+                "value": [
+                    "Áo thun",
+                    "Quần",
+                    "Áo khoác",
+                    "Balo",
+                    "Nón",
+                    "Áo khoác Hoodie"
+                ]
+            },
+            {
+                "tittle": "Thiết kế",
+                "value": [
+                    "Trơn",
+                    "Phối màu",
+                    "Kẻ sọc",
+                    "Caro",
+                    "Họa tiết in",
+                    "Họa tiết thêu"
+                ]
+            },
+            {
+                "tittle": "Giới tính",
+                "value": [
+                    "Nam",
+                    "Nữ",
+                    "Unisex"
+                ]
+            },
+            {
+                "tittle": "Size",
+                "value": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "FREE SIZE"
+                ]
+            }
+        ],
+        "jwelry": [
+            {
+                "tittle": "Danh mục",
+                "value": [
+                    "Nhẫn",
+                    "Bông tai",
+                    "Lắc",
+                    "Vòng",
+                    "Kiềng",
+                    "Dây chuyền",
+                    "Mặt dây chuyền",
+                    "Dây cổ"
+                ]
+            },
+            {
+                "tittle": "Chất liệu",
+                "value": [
+                    "Vàng",
+                    "Bạc",
+                    "Platinum"
+                ]
+            },
+            {
+                "tittle": "Giới tính",
+                "value": [
+                    "Nam",
+                    "Nữ",
+                    "Unisex"
+                ]
+            },
+            {
+                "tittle": "Size",
+                "value": [
+                    "17",
+                    "18",
+                    "40",
+                    "42",
+                    "FREE SIZE"
+                ]
+            }
+        ],
+        "clock": [
+            {
+                "tittle": "Danh mục",
+                "value": [
+                    "Đồng hồ",
+                    "Đồng hồ cặp",
+                    "Phụ kiện"
+                ]
+            },
+            {
+                "tittle": "Chất liệu",
+                "value": [
+                    "Dây cao su",
+                    "Dây da",
+                    "Dây thép không gỉ",
+                    "Dây Satin"
+                ]
+            },
+            {
+                "tittle": "Giới tính",
+                "value": [
+                    "Nam",
+                    "Nữ",
+                    "Unisex"
+                ]
+            },
+            {
+                "tittle": "Size",
+                "value": [
+                    "17",
+                    "18",
+                    "40",
+                    "42",
+                    "FREE SIZE"
+                ]
+            }
+        ]
+    }
+}

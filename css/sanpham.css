@@ -1,0 +1,20 @@
+div.stick{
+    width: 0;
+    height: 0;
+    border-left: 20px solid rgb(255, 234, 0);
+    border-top: 40px solid rgb(255, 234, 0);
+    border-right: 20px solid rgb(255, 234, 0);
+    border-bottom: 8px solid transparent;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+div.stick-title{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.productCard{
+    box-shadow: 0px 1px 10px #d7d7d7;
+}

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vanci.com</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="css/sanpham.css">
+</head>
+
+<body>
+    <div class="bg bg-white p-3">
+        <img ng-if="id == 'fashions'" class=" d-block img-fluid my-3"
+            src="https://routine.vn/media/catalog/category/Holiday-Summer.jpg" alt="">
+        <img ng-if="id == 'jewelry'" class="img-fluid my-3 d-block mx-auto" src="img/jewelry.jpg" alt="">
+        <div ng-if="id == 'clock'" class="d-flex justify-content-around mx-auto bg-white p-4">
+            <div>
+                <img src="img/clock1.png" alt="">
+            </div>
+            <div>
+                <img src="img/clock2.png" alt="">
+            </div>
+            <div>
+                <img src="img/clock3.png" alt="">
+            </div>
+            <div>
+                <img src="img/clock4.png" alt="">
+            </div>
+        </div>
+
+        <h4 class="" id="">
+            <div class="fw-bold text-center" type="button" style="font-size: 30px; color: #EE4D2D;">
+                {{category | uppercase}}
+            </div>
+        </h4>
+    </div>
+
+    <div class="container myb-5 mt-2">
+        <div class="row">
+            <!-- Bộ lọc -->
+            <div class="col-lg-3 bg-white p-3">
+                <div class="fw-bolder text-dark mb-4"><i class="bi bi-funnel "></i> BỘ LỌC TÌM KIẾM</div>
+                <div class="accordion border-0" id="accordionExample">
+                    <div class="accordion-item border-2 border-start-0 border-end-0">
+                        <h4 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseFirt" aria-expanded="false" aria-controls="collapseFirt"
+                                style="font-size: 16px">
+                                {{filterSearchsItem[0].tittle}}
+                            </button>
+                        </h4>
+                        <div id="collapseFirt" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="text-decoration-none list-unstyled mt-2">
+                                    <li ng-repeat="value in filterSearchsItem[0].value" class="mb-2"
+                                        style="color: #333333;">
+                                        <input ng-click="getFilter($index, myFil, 'myFilter', filterText)" id="myFilter"
+                                            ng-model="myFil" class="me-1" type="checkbox" style="cursor: pointer;">
+                                        <label id="myFilter{{$index}}">
+                                            {{value}}
+                                        </label>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item border-2 border-start-0 border-end-0">
+                        <h4 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"
+                                style="font-size: 16px">
+                                {{filterSearchsItem[1].tittle}}
+                            </button>
+                        </h4>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="text-decoration-none list-unstyled mt-2">
+                                    <li ng-repeat="value in filterSearchsItem[1].value" class="mb-2"
+                                        style="color: #333333;">
+                                        <input ng-click="getFilter($index, myFil, 'myFilterDesign', filterDesign)"
+                                            ng-model="myFil" class="me-1" type="checkbox" style="cursor: pointer;">
+                                        <label for="" id="myFilterDesign{{$index}}">{{value}}</label>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item border-2 border-start-0 border-end-0">
+                        <h4 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"
+                                style="font-size: 16px">
+                                {{filterSearchsItem[2].tittle}}
+                            </button>
+                        </h4>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <ul class="text-decoration-none list-unstyled mt-2">
+                                    <li ng-repeat="value in filterSearchsItem[2].value" class="mb-2"
+                                        style="color: #333333;">
+                                        <input ng-click="getFilter($index, myFil, 'myFilterSex', filterSex)"
+                                            ng-model="myFil" class="me-1" type="checkbox" style="cursor: pointer;">
+                                        <label for="" id="myFilterSex{{$index}}">{{value}}</label>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item border-2 border-start-0 border-end-0">
+                        <h4 class="accordion-header" id="headingThree">
+                            <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"
+                                style="font-size: 16px">
+                                {{filterSearchsItem[3].tittle}}
+                            </button>
+                        </h4>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <button ng-repeat="value in filterSearchsItem[3].value"
+                                    class="btn btn border border-dark m-2" style="min-width: 50px;">{{value}}</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="text-secondary">
+
+                <div>
+                    <div class="d-flex">
+                        <input ng-model="priceMin" class="w-50 form-control" type="text" placeholder="VNĐ Từ">
+                        <div class="mx-4" style="font-size: 20px;">-</div>
+                        <input ng-model="priceMax" class="w-50 form-control" type="text" placeholder="VNĐ Đến">
+                    </div>
+
+                    <button ng-click="setFilterPrice()" class="btn btn-sm btn-outline-danger w-100 mt-3">ÁP
+                        DỤNG</button>
+                </div>
+
+
+            </div>
+
+            <!-- san pham -->
+            <div class="col-lg-9">
+                <div class="row">
+                    <div ng-repeat="product in products | productFilter: id : filterText : filterDesign : filterSex: searchText | limitTo : 8 : page"
+                        class="col-lg-3 col-sm-6 mb-3">
+                        <div class="position-relative productCard">
+                            <div class="card">
+                                <a href="#!detail/{{product.id}}">
+                                    <img class="img-fluid" src="{{product.img}}" class="card-img-top" alt="...">
+                                </a>
+                                <div class="card-body">
+                                    <a href="#!detail/{{product.id}}" class="text-decoration-none">
+                                        <h5 class="card-title text-dark"
+                                            style="font-size: 1.1rem; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+                                            {{product.name}}
+                                        </h5>
+                                        <p class="card-text text-decoration-line-through text-secondary m-0">
+                                            {{product.price | currency: '': 0}} <span
+                                                class="text-decoration-underline">đ</span></p>
+                                        <p class="card-text text-danger" style="font-size: 1.2rem;">
+                                            {{product.priceSale | currency: '': 0}} <span
+                                                class="text-decoration-underline">đ</span>
+                                        </p>
+                                    </a>
+
+                                    <div class="d-flex justify-content-start">
+                                        <a href="#!detail" class="btn btn-sm me-2 border-0 text-white"
+                                            style="white-space: nowrap; background-color: #EE4D2D;">Mua
+                                            ngay</a>
+                                        <a href="#" class="btn btn-sm border btn-light bg-white"
+                                            style="white-space: nowrap;"><i class="bi bi-cart-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="position-absolute top-0 end-0">
+                                <div class="stick">
+                                </div>
+                                <div class="position-absolute top-0" style="right: 4px;">
+                                    <div class="stick-title text-center text-danger">{{product.sale}}</div>
+                                    <div class="stick-title text-center text-white">GIẢM</div>
+                                </div>
+                            </div>
+
+                            <div class="position-absolute mt-2 top-0 start-0">
+                                <div class="bg-danger text-white p-1" style="font-size: 12px;">
+                                    Yêu thích+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="btn-toolbar mb-3 d-flex justify-content-center mt-2" role="toolbar"
+        aria-label="Toolbar with button groups">
+        <div class="btn-group me-2" role="group" aria-label="First group">
+            <button ng-click="page = 0" type="button" class="btn btn-outline-secondary">1</button>
+            <button ng-click="page = 7" type="button" class="btn btn-outline-secondary">2</button>
+            <button ng-click="page = 15" type="button" class="btn btn-outline-secondary">3</button>
+            <button ng-click="page = 23" type="button" class="btn btn-outline-secondary">4</button>
+        </div>
+    </div>
+</body>
+
+</html>

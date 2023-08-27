@@ -1,0 +1,16 @@
+.colunm{
+    flex: 1;
+}
+
+.colunm-2{
+    flex: 3;
+}
+
+.total-text{
+    color: #333333;
+    font-size: 19px;
+}
+
+.total_box{
+    box-shadow: 0 4px 15px 3px #d5d5d5;
+}

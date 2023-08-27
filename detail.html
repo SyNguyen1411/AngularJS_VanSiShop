@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/detail.css">
+
+    <!-- Nhúng angular -->
+    <script src="angular-1.8.2/angular-1.8.2/angular.js"></script>
+    <script src="angular-1.8.2/angular-1.8.2/angular-route.js"></script>
+    <script src="js/index.js"></script>
+</head>
+
+<body style="background-color: #e5e5e5af;">
+    <!-- Chi tiết -->
+    <div class="container py-5 mt-5 bg-white">
+        <div class="row">
+            <div class="col-md-6">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="{{products[index].img}}" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row mb-3 d-flex justify-content-between">
+                            <div id="carouselExampleControls1" class="carousel slide" data-bs-ride="carousel">
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <div class="row">
+                                            <div ng-repeat="thumnailItem in products[index].thumnail"
+                                                class="col-3 text-center">
+                                                <div class="border">
+                                                    <img class="" height="100px" src="{{thumnailItem}}" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <button class="carousel-control-prev" type="button"
+                                    data-bs-target="#carouselExampleControls1" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button"
+                                    data-bs-target="#carouselExampleControls1" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <h4>{{products[index].name}}</h4>
+                <div class="grade d-flex">
+                    <div class="grade_text me-2 fw-bold">{{products[index].grade}}</div>
+                    <div class="grade_text" star-grating rating="products[index].grade"></div>
+                    <div class="ms-3 text-success">Viết đánh giá của bạn</div>
+                </div>
+
+                <hr>
+
+                <div class="price d-flex align-items-center">
+                    <h6 class="text-secondary text-decoration-line-through">
+                        <div class="price_text me-3">{{products[index].price | currency:"" : 0}} VNĐ</div>
+                    </h6>
+
+                    <h3 class="text-warning">
+                        <div class="price_text price_text-real">{{products[index].priceSale | currency:"" : 0}} VNĐ</div>
+                    </h3>
+                    <div class="price-stick_sale">GIẢM {{products[index].sale}}</div>
+                </div>
+
+
+                <div>{{products[index].info}}</div>
+
+                <div class="selectBuy mt-4">
+                    <div class="selectBuy-title">Vận chuyển:</div>
+                    <div class="selectBuy-select">
+                        <div class="selectBuy-select_speed">
+                            <i class="bi bi-truck"></i> Giao hàng nhanh (Nhận hàng sai 3-5 ngày)
+                        </div>
+                        <div class="selectBuy-select_extra">
+                            <i class="bi bi-fire"></i> Hỏa tốc
+                        </div>
+                    </div>
+                </div>
+
+                <div class="selectBuy mt-4">
+                    <div class="selectBuy-title">Size:</div>
+                    <div class="selectBuy-select">
+                        <button ng-repeat="(x,y) in products[index].size" ng-click="getSizeCart($index)" id="size{{$index}}" type="button"
+                            class="btn border border-secondary text-center me-1"
+                            style="min-width: 50px; padding: 0 10px; height: 30px;">
+                            {{x}}
+                        </button>
+                    </div>
+                </div>
+
+                <div class="selectBuy mt-4">
+                    <div class="selectBuy-title">Số lượng:</div>
+                    <div class="selectBuy-select btn-group border-0">
+                        <button ng-click="reduceNumber()" type="button" class="btn border p-0" style="width: 30px; height: 30px;">-</button>
+                        <button ng-model="quantity" type="button" class="btn border p-0" style="width: 50px; height: 30px;">{{quantity}}</button>
+                        <button ng-click="increaseNumber()" type="button" class="btn border p-0" style="width: 30px; height: 30px;">+</button>
+                    </div>
+                </div>
+
+
+
+                <div class="mt-4">
+                    <div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
+                        <div class="btn-group me-2" role="group" aria-label="First group">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <button class="btn btn-buy_now btn-dark">MUA NGAY</button>
+                    <button ng-click="addProduct(products[index], quantity, sizeCart)" class="btn btn-add_to_card"><i class="bi bi-cart-plus"></i> THÊM VÀO GIỎ HÀNG</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container bg-white mt-3 p-5 mb-5">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active fw-bold" id="nav-home-tab" data-bs-toggle="tab"
+                    data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Mô
+                    tả</button>
+                <button class="nav-link fw-bold" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile"
+                    type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Nhận xét của khách
+                    hàng</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                <div>
+                    <div class="mt-3">
+                        {{products[index].info}}
+                    </div>
+
+                    <div class="mt-3">
+                        CHI TIẾT SẢN PHẨM
+                        <div ng-repeat="detailInfo in products[index].detailInfo" class="my-3">• {{detailInfo}}</div>
+                    </div>
+
+                    <div class="mt-3">
+                        BẢNG KÍCH CỠ:
+                        <div ng-repeat="(x, y) in products[index].size" class="my-3">• Size {{x}}: {{y}}</div>
+
+                        Để bảo quản áo cũng như chất liệu hình in/thêu, chúng tôi khuyên bạn lộn mặt trái khi giặt
+                        và ủi
+                        <br>
+                        <br>
+                        Khuyến khích dùng phương pháp giặt hấp.
+                    </div>
+
+                    <div class="mt-3">
+
+                        *LƯU Ý:
+                        <div class="my-3" style="text-transform: uppercase;">{{products[index].note}}</div>
+                        
+                        <span ng-repeat="key in products[index].keySale">#{{key}} </span>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane fade p-4" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                <h5 class="text-center">Hiện sản phẩm chưa có đánh giá nào</h5>
+                <div class="d-flex justify-content-center"><button class="btn btn-success">Gửi đánh giá của
+                        bạn</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
